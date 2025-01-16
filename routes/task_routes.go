@@ -5,7 +5,7 @@ import (
 	"database/sql"
 
 	"github.com/gin-gonic/gin"
-	"github.com/rohansen856/taskmanager/handlers"
+	"github.com/rohansen856/go_taskmanager/handlers"
 )
 
 // RegisterTaskRoutes sets up the task routes.

@@ -1,4 +1,4 @@
-module github.com/rohansen856/taskmanager
+module github.com/rohansen856/go_taskmanager
 
 go 1.23.4
 

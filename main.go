@@ -5,8 +5,8 @@ import (
 	"log"
 
 	"github.com/gin-gonic/gin"
-	"github.com/rohansen856/taskmanager/config"
-	"github.com/rohansen856/taskmanager/routes"
+	"github.com/rohansen856/go_taskmanager/config"
+	"github.com/rohansen856/go_taskmanager/routes"
 )
 
 func main() {
